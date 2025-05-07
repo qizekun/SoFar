@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = [
+    "sofar_llava", "depth", "serve", "open6dor",
+    "orientation", "segmentation", "spatialbench"
+]
+
+[project]
+name = "SoFar"
+version = "1.0"
+description = "SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation"
+readme = "README.md"
+license = {text = "Apache License 2.0"}
+authors = [{name = "Zekun Qi", email = "qizekun@gmail.com"}]
+dependencies = [
+    "torch==2.3.1", "torchvision==0.18.1", "diffusers[torch]==0.27.2", "mmengine", "trimesh",
+    "plyfile", "html4vision", "matplotlib==3.8.0", "openai", "argparse",
+    "easydict", "numpy<2.0.0", "pyyaml", "scipy", "tensorboardX", "accelerate==0.26.0",
+    "timm==0.6.13", "tqdm", "ipdb", "ftfy", "regex", "termcolor", "scikit-learn==1.2.2",
+    "ninja", "supervision", "transformers==4.49.0", "tokenizers==0.21.0", "einops==0.6.1",
+    "httpx[socks]"
+]
+
+[project.urls]
+"Homepage" = "https://qizekun.github.io/sofar"
+"Bug Tracker" = "https://github.com/qizekun/SoFar/issues"
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "flake8"
+]

@@ -1,0 +1,3124 @@
+[
+    {
+        "id": 0,
+        "question": "How many hollow balls are there?",
+        "options": [
+            "8",
+            "2",
+            "0",
+            "5"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 1,
+        "question": "What's the color of the dish on the left top of the noodles?",
+        "options": [
+            "red",
+            "brown",
+            "yellow",
+            "green"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 2,
+        "question": "Count from right to left and start at 1, which two of the red flower pots are the group of people in the middle of?",
+        "options": [
+            "4 and 5",
+            "2 and 3",
+            "1 and 2",
+            "3 and 4"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 3,
+        "question": "How many turns are there on the red road?",
+        "options": [
+            "8",
+            "5",
+            "2",
+            "11"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 4,
+        "question": "What's the angle between the camera's lens and the ground?",
+        "options": [
+            "90°",
+            "75°",
+            "45°",
+            "60°"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 5,
+        "question": "What is the angle difference between the orientations of the two white cars?",
+        "options": [
+            "90°",
+            "135°",
+            "45°",
+            "180°"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 6,
+        "question": "What's the distance between the deskmates?",
+        "options": [
+            "~0.8m",
+            "~1.5m",
+            "~2.0m",
+            "~0.2m"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 7,
+        "question": "Who is the taller girl?",
+        "options": [
+            "the left",
+            "the right",
+            "Cannot determine",
+            "they are the same"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 8,
+        "question": "Count from left to right, which hand does the teacher mostly be likely to point at?",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 9,
+        "question": "What is the angle between the orientation of the buddha and the building's gate?",
+        "options": [
+            "0°",
+            "30°",
+            "90°",
+            "60°"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 10,
+        "question": "What's on the top of the two pairs of scissors?",
+        "options": [
+            "paper clips",
+            "scissors",
+            "rubbers",
+            "pens"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 11,
+        "question": "What's the angle between the chair on the right and the other chairs?",
+        "options": [
+            "90°",
+            "45°",
+            "15°",
+            "0°"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 12,
+        "question": "To what degree is the classroom door opened?",
+        "options": [
+            "75°",
+            "135°",
+            "105°",
+            "165°"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 13,
+        "question": "What is the height of the dark wing chair?",
+        "options": [
+            "140cm",
+            "100cm",
+            "30cm",
+            "65cm"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 14,
+        "question": "Which item is farthest from me?",
+        "options": [
+            "bed",
+            "chair",
+            "mirror",
+            "book"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 15,
+        "question": "What's the angle difference between the fork and knife",
+        "options": [
+            "45°",
+            "65°",
+            "25°",
+            "5°"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 16,
+        "question": "What's the angle between the orientation of the camera and the sheep in front of the woman?'",
+        "options": [
+            "60",
+            "0",
+            "30",
+            "90"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 17,
+        "question": "How far is the wet tissue on the microwave from the table?",
+        "options": [
+            "30cm",
+            "15cm",
+            "5cm",
+            "45cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 18,
+        "question": "What's the distance between the right edge of the printer to the center of the snack bowl?",
+        "options": [
+            "40cm",
+            "20cm",
+            "5cm",
+            "60cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 19,
+        "question": "Are the two open doors of the closet parallel to each other?",
+        "options": [
+            "No",
+            "Partially",
+            "Cannot determine",
+            "Yes"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 20,
+        "question": "How far is the center of the fan from the floor?",
+        "options": [
+            "60cm",
+            "120cm",
+            "25cm",
+            "95cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 21,
+        "question": "How many glass cups are placed upright (not upside down)?",
+        "options": [
+            "2",
+            "5",
+            "8",
+            "0"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 22,
+        "question": "How many chairs are pulled out from the table?",
+        "options": [
+            "7",
+            "3",
+            "5",
+            "1"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 23,
+        "question": "What's the angle difference between the red pen and the blue pen?",
+        "options": [
+            "75",
+            "135",
+            "105",
+            "45"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 24,
+        "question": "Suppose you walk by 1m/s, how long will it take for you to walk from the whiteboard to the door?",
+        "options": [
+            "2s",
+            "5s",
+            "0.5s",
+            "3.5s"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 25,
+        "question": "How many directions do the arrows on the lane in the picture point?",
+        "options": [
+            "2",
+            "3",
+            "1",
+            "4"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 26,
+        "question": "How many arch decorations are there on the bridge?",
+        "options": [
+            "1",
+            "3",
+            "7",
+            "5"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 27,
+        "question": "How many chairs are there around the table?",
+        "options": [
+            "6",
+            "10",
+            "8",
+            "12"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 28,
+        "question": "How far do you need to push the chair under the table?",
+        "options": [
+            "70cm",
+            "5cm",
+            "40cm",
+            "20cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 29,
+        "question": "What's the angle difference between the orientation of the green duck and the grey duck?",
+        "options": [
+            "60",
+            "120",
+            "30",
+            "90"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 30,
+        "question": "What's the distance between the flower pot on the left and the flower pot in the middle?",
+        "options": [
+            "110cm",
+            "70cm",
+            "30cm",
+            "150cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 31,
+        "question": "What is the angle between the backrest and the seat cushion of the chair?",
+        "options": [
+            "75",
+            "135",
+            "105",
+            "45"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 32,
+        "question": "Count from top to down. How many drawers in the first row are tied with a medal?",
+        "options": [
+            "3",
+            "0",
+            "2",
+            "1"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 33,
+        "question": "What's the angle between the orientation of the teacher's hand and the boy in yellow's hand?",
+        "options": [
+            "0",
+            "135",
+            "90",
+            "45"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 34,
+        "question": "Are the faces of the man in a plaid shirt and the woman in red facing the same direction?",
+        "options": [
+            "Partially",
+            "Yes",
+            "Cannot determine",
+            "No"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 35,
+        "question": "How many kids are raising their hands?",
+        "options": [
+            "4",
+            "3",
+            "1",
+            "0"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 36,
+        "question": "What's the length of the spice box?",
+        "options": [
+            "27cm",
+            "13cm",
+            "20cm",
+            "34cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 37,
+        "question": "What is the angle between the handles of the two spoons?",
+        "options": [
+            "60",
+            "90",
+            "75",
+            "45"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 38,
+        "question": "Suppose you move at 0.5m/s, how long does it take for you to move from the left side of the table to the sink?",
+        "options": [
+            "7.5s",
+            "3s",
+            "6s",
+            "4.5s"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 39,
+        "question": "If you want to align the orientations of the two chairs, what is the minimum angle you need to rotate the chair on the right?",
+        "options": [
+            "75",
+            "55",
+            "35",
+            "15"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 40,
+        "question": "You're arranging the table after the customer left. How far do you need to push the chair under the table?",
+        "options": [
+            "45cm",
+            "30cm",
+            "60cm",
+            "15cm"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 41,
+        "question": "How many degrees do you need to rotate the panels of the display board to fold them for storage?",
+        "options": [
+            "45°",
+            "60°",
+            "30°",
+            "15°"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 42,
+        "question": "What is the distance between the backrests of the two chairs?",
+        "options": [
+            "0.8m",
+            "2m",
+            "1.6m",
+            "1.2m"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 43,
+        "question": "How many rails are the robotic arms mounted on?",
+        "options": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 44,
+        "question": "What is the color of the shirt worn by the second person closest to the observer?",
+        "options": [
+            "yellow",
+            "white",
+            "purple",
+            "blue"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 45,
+        "question": "Which person in this group is facing the same direction as the woman in black and white? Use the colors of their clothes to identify them.",
+        "options": [
+            "grey",
+            "green",
+            "white",
+            "pink"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 46,
+        "question": "How far does the observer need to walk to stand up and grab the water bottle placed on the table?",
+        "options": [
+            "120cm",
+            "80cm",
+            "100cm",
+            "140cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 47,
+        "question": "Which direction does the handle of the cup in the upper right corner point to?",
+        "options": [
+            "left",
+            "right",
+            "front",
+            "back"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 48,
+        "question": "What is the color of the clothing worn by the second person from the right?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "White"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 49,
+        "question": "If the meditator in the picture wants to face the camera directly, what is the minimum angle they need to turn?",
+        "options": [
+            "75",
+            "45",
+            "105",
+            "15"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 50,
+        "question": "How far does each side of the curtain need to be pulled to close it completely before going to bed?",
+        "options": [
+            "110-130cm",
+            "50-70cm",
+            "90-110cm",
+            "70-90cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 51,
+        "question": "What is the distance between the handles of these two drawers?",
+        "options": [
+            "100cm",
+            "40cm",
+            "60cm",
+            "80cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 52,
+        "question": "What is the angle between the two pedals on the stair stepper in the gym?",
+        "options": [
+            "65",
+            "20",
+            "50",
+            "35"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 53,
+        "question": "What is the height difference between the seats of the two stationary bikes in the gym?",
+        "options": [
+            "10cm",
+            "0cm",
+            "5cm",
+            "15cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 54,
+        "question": "What is the height difference between the handlebars of the two stationary bikes in the gym?",
+        "options": [
+            "15cm",
+            "0cm",
+            "20cm",
+            "10cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 55,
+        "question": "What is the approximate distance between the second and third dumbbells when counting from the top down?",
+        "options": [
+            "23cm",
+            "9cm",
+            "16cm",
+            "2cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 56,
+        "question": "What is the distance difference between the shortest foam roller and the tallest yoga mat?",
+        "options": [
+            "70cm",
+            "55cm",
+            "40cm",
+            "85cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 57,
+        "question": "What is the angle between the raised agility hurdle and the ground?",
+        "options": [
+            "30°",
+            "45°",
+            "15°",
+            "60°"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 58,
+        "question": "What is the height from the top edge of the blue poster to the ground?",
+        "options": [
+            "200cm",
+            "170cm",
+            "185cm",
+            "155cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 59,
+        "question": "What is the angle between the two segments of steps?",
+        "options": [
+            "60",
+            "45",
+            "30",
+            "75"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 60,
+        "question": "How many packages are there in the leftmost pile of parcels?",
+        "options": [
+            "4",
+            "5",
+            "2",
+            "3"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 61,
+        "question": "What is the distance between the can and the glass cup?",
+        "options": [
+            "80cm",
+            "95cm",
+            "125cm",
+            "110cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 62,
+        "question": "Assuming you move at a speed of one meter per second, starting from the location of the blue water cup to water each plant in the white pots, and each pot takes two seconds to water, what is the minimum time needed to water all the plants in the white pots?",
+        "options": [
+            "16-18s",
+            "13-15s",
+            "10-12s",
+            "7-9s"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 63,
+        "question": "How many degrees is the lid of the blue trash can opened?",
+        "options": [
+            "60",
+            "45",
+            "90",
+            "75"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 64,
+        "question": "What is the angle between the orientations of the two people sitting at the table?",
+        "options": [
+            "90",
+            "105",
+            "60",
+            "75"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 65,
+        "question": "Assuming you move at a speed of 1 meter per second, how long does it take to walk from the nearest end of the bookshelf to the green backpack?",
+        "options": [
+            "4-4.5s",
+            "3.5-4s",
+            "4.5-5s",
+            "3-3.5s"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 66,
+        "question": "How many books are lying down on this shelf?",
+        "options": [
+            "3",
+            "2",
+            "5",
+            "4"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 67,
+        "question": "What is the angle between the thick green book and the bookshelf?",
+        "options": [
+            "45",
+            "75",
+            "60",
+            "90"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 68,
+        "question": "What is the angle between the short ladder and the bookshelf?",
+        "options": [
+            "45",
+            "30",
+            "17",
+            "5"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 69,
+        "question": "What angle do you need to press down the handle of the large black stapler to staple the paper?",
+        "options": [
+            "30",
+            "15",
+            "60",
+            "45"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 70,
+        "question": "How many books are there on the shelf?",
+        "options": [
+            "6",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 71,
+        "question": "What is the angle between the two adjacent rows of seats in the library?",
+        "options": [
+            "60",
+            "45",
+            "75",
+            "30"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 72,
+        "question": "How many chairs can you see around the round table?",
+        "options": [
+            "11",
+            "9",
+            "7",
+            "5"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 73,
+        "question": "How many red cushioned chairs are there in the picture?",
+        "options": [
+            "1",
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 74,
+        "question": "How many compartments are there in the heart-shaped grid for storing books?",
+        "options": [
+            "5",
+            "3",
+            "6",
+            "4"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 75,
+        "question": "Are all the tables in the picture parallel to each other?",
+        "options": [
+            "No",
+            "Cannot determine",
+            "Yes",
+            "Partially"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 76,
+        "question": "How far do you need to move the book on the right to place it on top of the book on the left?",
+        "options": [
+            "70cm",
+            "85cm",
+            "55cm",
+            "40cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 77,
+        "question": "How many chairs are paired with this kiwi-colored table?",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "6"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 78,
+        "question": "Which person is holding a cup of orange juice?",
+        "options": [
+            "The man in green",
+            "None of them",
+            "The woman in blue",
+            "The woman in white"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 79,
+        "question": "What color is the shortest thermos?",
+        "options": [
+            "Green",
+            "White",
+            "Red",
+            "Purple"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 80,
+        "question": "Are all the separately arranged tables parallel to each other?",
+        "options": [
+            "Yes, all of them are parallel.",
+            "Most of the tables are tilted.",
+            "There is one table that is slightly tilted.",
+            "Cannot determine."
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 81,
+        "question": "How many cushions are there on the sofa?",
+        "options": [
+            "1",
+            "3",
+            "2",
+            "0"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 82,
+        "question": "How wide is the sleeper sofa when it is unfolded into a bed?",
+        "options": [
+            "100cm",
+            "Cannot determine",
+            "85cm",
+            "115cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 83,
+        "question": "How many degrees is the cushion of the foldable sofa flipped open?",
+        "options": [
+            "65",
+            "35",
+            "20",
+            "50"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 84,
+        "question": "How many blue bath towels are stacked on the shelf?",
+        "options": [
+            "4",
+            "6",
+            "5",
+            "3"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 85,
+        "question": "From the bottom up, on which shelf is the blue shower gel bottle placed in the high cabinet?",
+        "options": [
+            "7",
+            "5",
+            "6",
+            "4"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 86,
+        "question": "Assuming a towel is 20 cm wide, how many towels can be hung on the towel rail without overlapping?",
+        "options": [
+            "3",
+            "5",
+            "2",
+            "4"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 87,
+        "question": "What is the distance from the bottom of the wooden boxes on the cabinet to the top of the washing machine?",
+        "options": [
+            "90-110cm",
+            "50-70cm",
+            "110-130cm",
+            "70-90cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 88,
+        "question": "What's the length of the iron board?",
+        "options": [
+            "63cm",
+            "73cm",
+            "83cm",
+            "53cm"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 89,
+        "question": "Are the two containers parallel to each other?",
+        "options": [
+            "Cannot determine",
+            "Partially",
+            "Yes",
+            "No"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 90,
+        "question": "How high is the place where the hat is hooked from the ground?",
+        "options": [
+            "60-75cm",
+            "30-45cm",
+            "75-90cm",
+            "45-60cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 91,
+        "question": "How many black storage boxes with lid are there on the shelf?",
+        "options": [
+            "2",
+            "6",
+            "0",
+            "4"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 92,
+        "question": "What's the man holding in his right hand?",
+        "options": [
+            "Fanta.",
+            "Pringles chips.",
+            "Biscuits.",
+            "Coca-cola."
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 93,
+        "question": "Which hand does the doctor use to shake hands with which hand of the patient?",
+        "options": [
+            "Both right hands.",
+            "Both left hands.",
+            "Left hand for the doctor and right hand for the patient.",
+            "Right hand for the doctor and left hand for the patient."
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 94,
+        "question": "Are the two nurses on the patient's left side or right side?",
+        "options": [
+            "One on the left side and the other the right side.",
+            "Cannot determine.",
+            "Both on the left side.",
+            "Both on the right side."
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 95,
+        "question": "Which hand of the patient is being supported by which hand of the nurse?",
+        "options": [
+            "Both left hands.",
+            "Right hand for the nurse and left hand for the parient.",
+            "Left hand for the nurse and right hand for the patient.",
+            "Both right hands."
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 96,
+        "question": "According to the sign, are Penn Garage and Research Center on the same route?",
+        "options": [
+            "Yes, they're in the same direction.",
+            "No, they're in the opposite direction.",
+            "No, they are orthogonal to each other.",
+            "Cannot determine."
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 97,
+        "question": "Who is the second closest to the camera?",
+        "options": [
+            "The woman in blue.",
+            "The woman in white.",
+            "The man in blue.",
+            "The man in white."
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 98,
+        "question": "What color is the hat of the second child from the left?",
+        "options": [
+            "Red",
+            "Golden",
+            "Blue",
+            "Pink and white"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 99,
+        "question": "How many arches does this bridge have?",
+        "options": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 100,
+        "question": "How many chairs are there?",
+        "options": [
+            "6",
+            "10",
+            "4",
+            "8"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 101,
+        "question": "In which direction is the desk facing?",
+        "options": [
+            "The window",
+            "The door",
+            "The plant",
+            "The sofa"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 102,
+        "question": "Which of the following is the sofa closer to?",
+        "options": [
+            "The bed",
+            "The TV",
+            "The ceiling",
+            "The door"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 103,
+        "question": "Which object from the list is situated at the shortest distance from your point of view within the image?",
+        "options": [
+            "The paintings",
+            "The yellow chairs",
+            "The plant on the table",
+            "The black chairs"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 104,
+        "question": "How high is the table?",
+        "options": [
+            "135cm",
+            "90cm",
+            "80cm",
+            "111cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 105,
+        "question": "How high is the swivel chair?",
+        "options": [
+            "92cm",
+            "105cm",
+            "120cm",
+            "75cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 106,
+        "question": "What is the width of the sofa?",
+        "options": [
+            "2.4m",
+            "2.0m",
+            "1.6m",
+            "2.8m"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 107,
+        "question": "At what angle are the knife and fork?",
+        "options": [
+            "15 degrees",
+            "60 degrees",
+            "30 degrees",
+            "0 degrees"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 108,
+        "question": "How many trees are there?",
+        "options": [
+            "5",
+            "3",
+            "7",
+            "6"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 109,
+        "question": "How many running tracks are there in the playground?",
+        "options": [
+            "5",
+            "7",
+            "3",
+            "6"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 110,
+        "question": "What is the color of the vegetables on the right of the green vegetables?",
+        "options": [
+            "orange",
+            "green",
+            "yellow",
+            "red"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 111,
+        "question": "Count from left to right and start from 1. What is the second fruit?",
+        "options": [
+            "oranges",
+            "lemons",
+            "apples",
+            "limes"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 112,
+        "question": "How many chairs are still empty there?",
+        "options": [
+            "5",
+            "6",
+            "4",
+            "3"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 113,
+        "question": "What are the balloons tied to?",
+        "options": [
+            "The bed",
+            "The photos",
+            "The cabinet",
+            "The toys"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 114,
+        "question": "Which building is taller?",
+        "options": [
+            "The right building",
+            "It's hard to tell",
+            "The left building",
+            "They are of the same height"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 115,
+        "question": "What is the person facing the dark pink flowers wearing?",
+        "options": [
+            "brown clothes",
+            "light pink clothes",
+            "black clothes",
+            "white clothes"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 116,
+        "question": "What is the angle of the upward stairs in relation to the downward stairs?",
+        "options": [
+            "30 degrees",
+            "45 degrees",
+            "0 degree",
+            "90 degrees"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 117,
+        "question": "where is the kitchen stand mixer in relation to the refrigerator?",
+        "options": [
+            "on the left behind",
+            "on the right behind",
+            "on the left front",
+            "on the right front"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 118,
+        "question": "How many degrees is the angle formed by the two roads?",
+        "options": [
+            "0",
+            "90",
+            "30",
+            "60"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 119,
+        "question": "From your perspective within the picture, how many degrees should you turn clockwise to go up the stairs?",
+        "options": [
+            "180",
+            "45",
+            "90",
+            "135"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 120,
+        "question": "If you are a driver driving a car on the road from near to far, which direction will you turn to?",
+        "options": [
+            "first turn left and then left",
+            "first turn right and then left",
+            "first turn left and then right",
+            "first turn right and then right"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 121,
+        "question": "Which od the following items shade part of the taller chair?",
+        "options": [
+            "the paintings",
+            "the shorter chair",
+            "the desk",
+            "the computer"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 122,
+        "question": "What is the angle between the orientation of the chair and the desk?",
+        "options": [
+            "0 degree",
+            "90 degrees",
+            "25 degrees",
+            "45 degrees"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 123,
+        "question": "What is the armchair facing?",
+        "options": [
+            "The nearest sofa",
+            "The mirror",
+            "The door",
+            "The longest sofa"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 124,
+        "question": "How many cars can pass the road at the same time?",
+        "options": [
+            "4",
+            "3",
+            "1",
+            "2"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 125,
+        "question": "How many cars can pass the road at the same time?",
+        "options": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 126,
+        "question": "How many white chairs are facing the window?",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 127,
+        "question": "How many clothes are hung out to dry",
+        "options": [
+            "10",
+            "6",
+            "8",
+            "5"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 128,
+        "question": "What is the chairs' orientation in relation to the sunlight?",
+        "options": [
+            "The back of the chairs faces the sunlight.",
+            "The side of the chairs faces the sunlight",
+            "The chairs face the sunlight.",
+            "None of the answers above is correct."
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 129,
+        "question": "Which shelf is the worker trying to put the goods on?",
+        "options": [
+            "The right upside shelf",
+            "The left upside shelf",
+            "The left downside shelf",
+            "The right downside shelf"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 130,
+        "question": "Which shelf is the worker trying to put the goods on?",
+        "options": [
+            "The right front shelf",
+            "The right behind shelf",
+            "The left behind shelf",
+            "The left front shelf"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 131,
+        "question": "Which direction are the goods carried by the worker leaning to?",
+        "options": [
+            "left",
+            "behind",
+            "right",
+            "front"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 132,
+        "question": "Your movement speed is approximately 2 m/s. How much time do you need to pass the longer side of the swimming pool?",
+        "options": [
+            "25s",
+            "30s",
+            "28s",
+            "22s"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 133,
+        "question": "How many plants are there?",
+        "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 134,
+        "question": "Count from high to low and start from 1. Which line of the plants have the biggest leaves?",
+        "options": [
+            "the first line",
+            "the second line",
+            "the fourth line",
+            "the third line"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 135,
+        "question": "What color of hat does the person between the two persons in blue hats wear?",
+        "options": [
+            "blue",
+            "white",
+            "black",
+            "yellow"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 136,
+        "question": "Count from right to left and start from 1. Which person wears a blue tie?",
+        "options": [
+            "3",
+            "7",
+            "4",
+            "6"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 137,
+        "question": "Which direction is the car facing?",
+        "options": [
+            "the left",
+            "the right",
+            "the houses",
+            "the street"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 138,
+        "question": "What is the distance between the two shorter plants?",
+        "options": [
+            "130cm",
+            "80cm",
+            "115cm",
+            "100cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 139,
+        "question": "What is the angle between the wooden book stand and the desk?",
+        "options": [
+            "72 degrees",
+            "45 degrees",
+            "60 degrees",
+            "90 degrees"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 140,
+        "question": "How tall is the bottle on the desk?",
+        "options": [
+            "20cm",
+            "17cm",
+            "23cm",
+            "14cm"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 141,
+        "question": "What is the distance between the end of the curtain and the ground?",
+        "options": [
+            "172cm",
+            "134cm",
+            "120cm",
+            "156cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 142,
+        "question": "What is the angle between the red pen and the blue pen?",
+        "options": [
+            "126 degrees",
+            "145 degrees",
+            "105 degrees",
+            "110 degrees"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 143,
+        "question": "What angle do the red belt and the wall form?",
+        "options": [
+            "85 degrees",
+            "50 degrees",
+            "60 degrees",
+            "75 degrees"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 144,
+        "question": "What is the width of the corridor?",
+        "options": [
+            "1.90m",
+            "1.75m",
+            "1.45m",
+            "1.6m"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 145,
+        "question": "What is the distance between the end of the machanical arm and the suface of the desk?",
+        "options": [
+            "35 cm",
+            "40 cm",
+            "27 cm",
+            "20 cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 146,
+        "question": "What is the angle between the two silvery parts of the robotic arm?",
+        "options": [
+            "60 degrees",
+            "70 degrees",
+            "90 degrees",
+            "45 degrees"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 147,
+        "question": "What is the height of the second-highest shelf?",
+        "options": [
+            "100 cm",
+            "80 cm",
+            "60 cm",
+            "120 cm"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 148,
+        "question": "What is the distance between the yellow toy and the pink toy?",
+        "options": [
+            "1.6m",
+            "100 cm",
+            "1.2m",
+            "1.5m"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 149,
+        "question": "How long is the drawer pulled out of the cabinet?",
+        "options": [
+            "16 cm",
+            "13 cm",
+            "20 cm",
+            "10 cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 150,
+        "question": "What is the position of the black shelving unit compared to the brown cabinet? Are they facing the same direction?",
+        "options": [
+            "They are not facing the same direction, and the black unit is slightly behind the brown cabinet.",
+            "They are facing the same direction, and the black unit is slightly in front of the brown cabinet.",
+            "They are not facing the same direction, and the black unit is slightly in front of the brown cabinet.",
+            "They are facing the same direction, and the black unit is slightly behind the brown cabinet."
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 151,
+        "question": "how many degrees does the door of the pink cabinet appears to be opened at?",
+        "options": [
+            "90 degrees",
+            "120 degrees",
+            "30 degrees",
+            "60 degrees"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 152,
+        "question": "What angle do the legs of the tripod form with each other?",
+        "options": [
+            "120 degrees",
+            "90 degrees",
+            "29 degrees",
+            "60 degrees"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 153,
+        "question": "How should the arm rotate to reach the object?",
+        "options": [
+            "15 degrees downward",
+            "20 degrees upward",
+            "60 degrees downward",
+            "30 degrees downward"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 154,
+        "question": "What is the robotic arm pointing at?",
+        "options": [
+            "the yellow object",
+            "the red object",
+            "the transparent object",
+            "the pink object"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 155,
+        "question": "How many bottles have fallen down and how many are still standing?",
+        "options": [
+            "3 and 5",
+            "3 and 4",
+            "4 and 3",
+            "4 and 5"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 156,
+        "question": "Count from the black camera, which bottle is not aligned with the others?",
+        "options": [
+            "the 6th one",
+            "the 7th one",
+            "thw 8th one",
+            "the 5th one"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 157,
+        "question": "Approximately how high is each step?",
+        "options": [
+            "29 cm",
+            "23 cm",
+            "18 cm",
+            "13 cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 158,
+        "question": "What is the width of each table?",
+        "options": [
+            "1 m",
+            "0.75 m",
+            "0.5 m",
+            "1.25 m"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 159,
+        "question": "Counting from the left, which two stools are facing the same direction?",
+        "options": [
+            "the first one and the third one",
+            "the third one and the 4th one",
+            "the fisrt one and the 4th one",
+            "the 2th one and the 3th one"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 160,
+        "question": "Which side of the steps is narrower?",
+        "options": [
+            "the left",
+            "the right",
+            "the middle",
+            "the same"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 161,
+        "question": "Assuming a moving speed of 0.5 m/s, how many seconds would it take to walk from here to the white flower?",
+        "options": [
+            "3s",
+            "5s",
+            "7s",
+            "10s"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 162,
+        "question": "What is the approximate inclination angle of the ladder?",
+        "options": [
+            "45 degrees",
+            "30 degrees",
+            "90 degrees",
+            "60 degrees"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 163,
+        "question": "What is the approximate height of the transparent deer's ears from the ground?",
+        "options": [
+            "90 cm",
+            "140 cm",
+            "75 cm",
+            "116 cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 164,
+        "question": "How wide is the corridor approximately?",
+        "options": [
+            "190 cm",
+            "150 cm",
+            "220 cm",
+            "170 cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 165,
+        "question": "What is the approximate angle at which the door is open?",
+        "options": [
+            "75 degrees",
+            "60 degrees",
+            "90 degrees",
+            "45 degrees"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 166,
+        "question": "In which direction should you turn when going down the stairs?",
+        "options": [
+            "turn around",
+            "turn left",
+            "go straight",
+            "turn right"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 167,
+        "question": "How many steps are there in total?",
+        "options": [
+            "8",
+            "12",
+            "10",
+            "14"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 168,
+        "question": "Which chair in the picture is pulled out?",
+        "options": [
+            "the right front one",
+            "the left behind one",
+            "thw right behind one",
+            "the left front one"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 169,
+        "question": "What is the approximate height of the chair?",
+        "options": [
+            "63 cm",
+            "50 cm",
+            "78 cm",
+            "90 cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 170,
+        "question": "Approximately how many people can stand side by side on the escalator?",
+        "options": [
+            "1",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 171,
+        "question": "How far does the chair need to be pushed in to fit under the table?",
+        "options": [
+            "50 cm",
+            "40 cm",
+            "61 cm",
+            "70 cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 172,
+        "question": "What is the relationship between the direction of the camera and the direction the person is walking?",
+        "options": [
+            "The person is walking diagonally toward the camera",
+            "Perpendicular",
+            "Parallel",
+            "The person is walking diagonally away from the camera"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 173,
+        "question": "What is the relationship between the person on the hammock and the direction of the lake?",
+        "options": [
+            "None of the above",
+            "The person is parallel to the lake",
+            "The person has his back to the lake",
+            "The person is facing the lake"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 174,
+        "question": "How should one walk to go deeper into the forest shown in the picture?",
+        "options": [
+            "Go straight",
+            "Go straight and then turn right",
+            "Go straight and then turn left",
+            "turn left right now"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 175,
+        "question": "Where should the white car go at the intersection?",
+        "options": [
+            "Turn left",
+            "Turn right",
+            "Go straight across the road",
+            "Make a U-turn"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 176,
+        "question": "If we want to take a road with better lighting, how should we drive?",
+        "options": [
+            "Drive toward the front left",
+            "Drive straight ahead",
+            "Drive toward the direct left",
+            "Drive toward the front right"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 177,
+        "question": "If we want to go downhill, what should we do?",
+        "options": [
+            "Sit down and wait",
+            "Go straight into the forest",
+            "Take the road to the front left",
+            "Take the road to the front right"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 178,
+        "question": "According to the blue sign, what should we do?",
+        "options": [
+            "Turn off the engine and park",
+            "Take the road to the front left",
+            "Take the road to the front right",
+            "Make a U-turn"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 179,
+        "question": "If you are sitting on the sofa watching TV and want to open the window, where should you go after getting up?",
+        "options": [
+            "Turn right",
+            "Turn left",
+            "Walk forward",
+            "Walk backward"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 180,
+        "question": "What is the person on the sofa facing away from?",
+        "options": [
+            "the plants outsides",
+            "the arm chairs",
+            "the table",
+            "the plant insides"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 181,
+        "question": "What is directly to your right when you just come down the stairs?",
+        "options": [
+            "Picture of a deer",
+            "Storage shelf",
+            "Sofa",
+            "Dining table"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 182,
+        "question": "From which direction is the wind blowing toward the car?",
+        "options": [
+            "left",
+            "front",
+            "right",
+            "back"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 183,
+        "question": "If you enter from the door and want to sit on the sofa, how should you walk?",
+        "options": [
+            "Walk to the front left, passing by the dining table",
+            "Turn left immediately to go upstairs",
+            "Walk to the front left without passing by the dining table",
+            "Walk straight ahead"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 184,
+        "question": "If you want to sit and directly enjoy the view outside the window, which seat should you choose?",
+        "options": [
+            "The distant seat on the left",
+            "The nearby seat on the left",
+            "The nearby seat on the right",
+            "The distant seat on the right"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 185,
+        "question": "If a patient is lying in bed, what is on their right side?",
+        "options": [
+            "Movable small table",
+            "Cabinet",
+            "Scenery outside the window",
+            "Armchair"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 186,
+        "question": "How many degrees does the armchair need to turn left to align with the bed's direction?",
+        "options": [
+            "135 degrees",
+            "90 degrees",
+            "180 degrees",
+            "225 degrees"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 187,
+        "question": "How many degrees does the wheelchair need to turn left to directly face the bed?",
+        "options": [
+            "135 degrees",
+            "10 degrees",
+            "90 degrees",
+            "45 degrees"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 188,
+        "question": "How many degrees does the bed need to turn clockwise to directly face the window?",
+        "options": [
+            "135 degrees",
+            "180 degrees",
+            "90 degrees",
+            "110 degrees"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 189,
+        "question": "What object is directly facing the window?",
+        "options": [
+            "The blue shorter chairs",
+            "The painting",
+            "The movable taller armchair",
+            "The screen"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 190,
+        "question": "What is the man putting clothes into?",
+        "options": [
+            "The washer in the lower right",
+            "The washer in the lower left",
+            "The dryer in the upper left",
+            "The dryer in the upper right"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 191,
+        "question": "What is the angle between the bicycle's direction and the train's direction?",
+        "options": [
+            "70 degrees",
+            "45 degrees",
+            "90 degrees",
+            "120 degrees"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 192,
+        "question": "How many degrees does the computer approximately need to be rotated counterclockwise to face the computer screen directly?",
+        "options": [
+            "145 degrees",
+            "110 degrees",
+            "90 degrees",
+            "180 degrees"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 193,
+        "question": "By how many degrees is the direction of goods being changed by the conveyor belt?",
+        "options": [
+            "210 degrees",
+            "90 degrees",
+            "160 degrees",
+            "180 degrees"
+        ],
+        "answer": 3,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 194,
+        "question": "How many forks are to the left of the bowl?",
+        "options": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 195,
+        "question": "What are the chopsticks placed on?",
+        "options": [
+            "An empty cup",
+            "A cocktail",
+            "A plate with food",
+            "A bowl with food"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 196,
+        "question": "How many red chairs are in front of the table?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "4"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 197,
+        "question": "Counting from right to left, which person is wearing brown clothing?",
+        "options": [
+            "the 4th one",
+            "the third one",
+            "the first one",
+            "the second one"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 198,
+        "question": "How many paintings are on the wall in total?",
+        "options": [
+            "4",
+            "5",
+            "7",
+            "6"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": true
+    },
+    {
+        "id": 199,
+        "question": "Which side of the dining area has more empty seats?",
+        "options": [
+            "the left side",
+            "the right side",
+            "can't tell",
+            "the same"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 200,
+        "question": "Is the chair facing the desk directly?",
+        "options": [
+            "Cannot determine",
+            "Yes",
+            "No",
+            "Partially"
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 201,
+        "question": "How far do you need to move the item on the bottom shelf upward to place it on the top shelf?",
+        "options": [
+            "55cm",
+            "70cm",
+            "25cm",
+            "40cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 202,
+        "question": "If you want to place books with a thickness of 3 cm each in the storage box, what is the maximum number you can stack?",
+        "options": [
+            "10 or 11",
+            "4 or 5",
+            "8 or 9",
+            "6 or 7"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 203,
+        "question": "What is the item placed on the far right of the desk accessories organizer?",
+        "options": [
+            "Scissors.",
+            "Colored pencils.",
+            "A ball of yarn.",
+            "Markers."
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 204,
+        "question": "Is the TV facing the camera directly?",
+        "options": [
+            "No. It's facing away from the camera.",
+            "Yes.",
+            "Partially.",
+            "Cannot determine."
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 205,
+        "question": "Is the TV facing the camera directly?",
+        "options": [
+            "Yes.",
+            "Partially.",
+            "Cannot determine.",
+            "No."
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 206,
+        "question": "In which compartment is the motorcycle model placed?",
+        "options": [
+            "Top right",
+            "Bottom right",
+            "Bottom left",
+            "Top left"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 207,
+        "question": "What angle is the lid of the air purifier opened?",
+        "options": [
+            "30",
+            "15",
+            "45",
+            "60"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 208,
+        "question": "Which compartment of the shelf is not filled with a blue plastic storage box?",
+        "options": [
+            "Top left",
+            "Top right",
+            "Bottom right",
+            "Bottom left"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 209,
+        "question": "How many blue chairs are stacked on top of each other?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "1"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 210,
+        "question": "How many degrees is the closet opened?",
+        "options": [
+            "60",
+            "40",
+            "20",
+            "80"
+        ],
+        "answer": 1,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 211,
+        "question": "How many degrees do you need to pull the drawer open at a minimum to take out the spatula?",
+        "options": [
+            "45cm",
+            "30cm",
+            "Cannot determine",
+            "15cm"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 212,
+        "question": "How far does the robotic arm need to descend to touch the clothing?",
+        "options": [
+            "55cm",
+            "70cm",
+            "40cm",
+            "25cm"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 213,
+        "question": "Assuming the robotic arm's hands are closed and positioned in the center of the gantry handle, how many centimeters do they need to open to grasp the two handles of the gantry?",
+        "options": [
+            "15-20cm",
+            "25-30cm",
+            "Cannot determine.",
+            "35-40cm"
+        ],
+        "answer": 1,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 214,
+        "question": "Assuming the robotic arm's hands are closed and positioned in the center of the gantry handle, how many centimeters do they need to open to grasp the two handles of the gantry?",
+        "options": [
+            "Cannot determine.",
+            "15-20cm",
+            "35-40cm",
+            "25-30cm"
+        ],
+        "answer": 3,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 215,
+        "question": "How many centimeters do you need to move the doll to the left to transfer it from its current compartment to the center of the left compartment on the top row?",
+        "options": [
+            "20cm",
+            "30cm",
+            "5cm.",
+            "10cm"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 216,
+        "question": "When a person sits on the current chair, will he or she be facing the computer directly?",
+        "options": [
+            "No, but they're partially facing the same direction.",
+            "Cannot determine.",
+            "Yes, they're exactly in the same direction.",
+            "No, they are orthogonal to each other."
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 217,
+        "question": "What angle is the phone approximately at relative to the ground when placed on the camera tripod?",
+        "options": [
+            "75°",
+            "45°",
+            "90°",
+            "30°"
+        ],
+        "answer": 0,
+        "task_type": "orientation",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 218,
+        "question": "Is the computer on the table currently facing the person?",
+        "options": [
+            "No, they are orthogonal to each other.",
+            "Cannot determine.",
+            "No, but they're partially facing the same direction.",
+            "Yes, they're exactly in the same direction."
+        ],
+        "answer": 2,
+        "task_type": "orientation",
+        "question_type": "relative",
+        "multi_object": false
+    },
+    {
+        "id": 219,
+        "question": "How high does the computer need to be lifted to place it on the laptop stand?",
+        "options": [
+            "15cm",
+            "5cm",
+            "25cm",
+            "Cannot determine."
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "absolute",
+        "multi_object": false
+    },
+    {
+        "id": 220,
+        "question": "Which item is closer to me?",
+        "options": [
+            "dog",
+            "glasses",
+            "ipad",
+            "water bottle"
+        ],
+        "answer": 0,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 221,
+        "question": "Which thermometer is the longest?",
+        "options": [
+            "they are the same length",
+            "the one farthest from camera",
+            "the one closest to camera",
+            "the one in the middle"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    },
+    {
+        "id": 222,
+        "question": "Which side is it looking towards?",
+        "options": [
+            "up",
+            "left",
+            "right",
+            "down"
+        ],
+        "answer": 2,
+        "task_type": "position",
+        "question_type": "relative",
+        "multi_object": true
+    }
+]

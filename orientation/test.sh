@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --config cfgs/train/base.yaml --exp_name test --test --ckpt occ-tiny-65.9.pth

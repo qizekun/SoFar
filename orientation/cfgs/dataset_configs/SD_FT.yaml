@@ -1,0 +1,4 @@
+NAME: SO_FT
+DATA_PATH: data/SO
+PC_PATH: data/SO/finetune_points
+POINTS: 10000

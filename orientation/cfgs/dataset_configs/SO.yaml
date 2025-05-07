@@ -1,0 +1,4 @@
+NAME: SemanticOrientation
+DATA_PATH: data/SO
+PC_PATH: data/SO/pcs
+POINTS: 10000
