@@ -228,10 +228,9 @@ Data open source on [Huggingface 6-DoF SpatialBench](https://huggingface.co/data
 - [x] Release the inference code with Qwen-VL-2.5.
 - [x] Add cpu devices inference support, such as MacOS.
 - [x] Release the evaluation code for Open6DOR-Libero.
-- [ ] Release more version of PointSO. (About 2 week)
-- [ ] Release the improved version of OrienText300K. (About 1 month)
-- [ ] Release gradio demo for SoFar & PointSO. (About 1 month)
-- [ ] Release the Objaverse-XL version dataset & PointSO. (Maybe 2 month or more)
+- [ ] Release the improved version of OrienText300K.
+- [ ] Release gradio demo for SoFar & PointSO.
+- [ ] Release the Objaverse-XL version dataset & PointSO.
 
 ## Contact
 If you have any questions related to the code or the paper, feel free to email Zekun (`qizekun@gmail.com`). 
@@ -249,8 +248,13 @@ If you find SoFar, PointSO, OrienText300K, Open6DOR V2 or 6-DoF SpatialBench hel
 ```BibTex
 @article{qi2025sofar,
   author = {Qi, Zekun and Zhang, Wenyao and Ding, Yufei and Dong, Runpei and Yu, Xinqiang and Li, Jingwen and Xu, Lingyun and Li, Baoyu and He, Xialin and Fan, Guofan and Zhang, Jiazhao and He, Jiawei and Gu, Jiayuan and Jin, Xin and Ma, Kaisheng and Zhang, Zhizheng and Wang, He and Yi, Li},
-  title = {SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation},
-  journal = {arXiv preprint arXiv:2502.13143},
-  year = {2025}
+  title        = {SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation},
+  journal      = {CoRR},
+  volume       = {abs/2502.13143},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2502.13143},
+  doi          = {10.48550/ARXIV.2502.13143},
+  eprinttype    = {arXiv},
+  eprint       = {2502.13143}
 }
 ```
